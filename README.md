@@ -3,7 +3,7 @@
 
 The Racket language is a modern dialect of Lisp and a descendant of the Scheme. It is designed as a platform for programming language design and implementation.
 
-![png-clipart-computer-science-scheme-programming-language-racket-language-computer-computer-programming](https://user-images.githubusercontent.com/47454368/147880063-52c44f20-314a-4d12-90b8-64d4aa208f51.png)
+![language-racket-andremayer](https://user-images.githubusercontent.com/47454368/147880113-7718f311-f339-4495-9dd2-5743fc1be6df.jpg)
 
 Basic racket programs of SICP course
 
