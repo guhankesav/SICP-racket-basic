@@ -1,5 +1,7 @@
 # SICP-racket-basic
-Contains basic racket programs of SICP course
+Basic racket programs of SICP course
+
+The Racket language is a modern dialect of Lisp and a descendant of the Scheme. It is designed as a platform for programming language design and implementation.
 
 1. Factorial Recursive.rkt
 
